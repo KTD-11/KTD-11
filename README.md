@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KTD</h1>
-<h3 align="center">A became a programmer</h3>
+<h3 align="center">A beginner a programmer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KTD-11?tab=repositories](https://github.com/KTD-11?tab=repositories)
 
